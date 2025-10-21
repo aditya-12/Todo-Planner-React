@@ -1,16 +1,47 @@
-# React + Vite
+# 📝 Todo Planner (React + Tailwind)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and elegant **To-Do Planner** built using **React** and **Tailwind CSS**.  
+This app allows users to add, complete, and delete tasks dynamically — all without refreshing the page.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Deployment
 
-## React Compiler
+🔗 **Vercel Deploy Link:** [https://vercel.com/adityas-projects-ef8579d0/todo-planner-react/FHdtwHUUcTD74KYhKHJgkMpYhw8G](https://vercel.com/adityas-projects-ef8579d0/todo-planner-react/FHdtwHUUcTD74KYhKHJgkMpYhw8G)  
+*(Replace this link with your actual deployment URL once deployed)*  
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 💻 GitHub Repository
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🔗 **GitHub Repo Link:** [https://github.com/aditya-12/Todo-Planner-React](https://github.com/aditya-12/Todo-Planner-React)  
+*(Replace this link with your actual repository URL)*
+
+---
+
+## 🎯 Features
+
+✅ **Add New Tasks** – Add tasks using the input field or by pressing the **Enter** key.  
+✅ **Validation Alerts** – Shows an alert if you try to add an empty task.  
+✅ **Mark as Complete** – Checkboxes let you mark tasks as completed (with a neat strike-through).  
+✅ **Delete Tasks** – Remove unwanted tasks instantly.  
+✅ **Dynamic Rendering** – Updates immediately without reloading the page.  
+✅ **Attractive UI** – Modern dark-themed interface using Tailwind CSS.  
+
+---
+
+## 🧠 Tech Stack
+
+- ⚛️ **React JS** – Frontend Framework  
+- 🎨 **Tailwind CSS** – Styling  
+- ⚡ **Vite** – Build Tool  
+- ☁️ **Netlify / Vercel** – Deployment Platform  
+
+---
+
+## 📦 Installation & Setup
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/aditya-12/Todo-Planner-React.git
+cd todo-planner
