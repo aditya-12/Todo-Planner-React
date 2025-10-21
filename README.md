@@ -7,7 +7,7 @@ This app allows users to add, complete, and delete tasks dynamically — all wit
 
 ## 🚀 Live Deployment
 
-🔗 **Netlify / Vercel Deploy Link:** [https://todo-planner.netlify.app](https://todo-planner-react-pjju4hykw-adityas-projects-ef8579d0.vercel.app/)  
+🔗 **Vercel Deploy Link:** [https://todo-planner.vercel.app](https://todo-planner-react-pjju4hykw-adityas-projects-ef8579d0.vercel.app/)  
 *(Replace this link with your actual deployment URL once deployed)*  
 
 ---
